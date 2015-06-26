@@ -25,3 +25,5 @@ popResult = colors.pop(1);
 scrambledWords.reverse();
 
 phoneNumber.reverse();
+
+nextOrder = orderQueue.shift();
