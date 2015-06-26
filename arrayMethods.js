@@ -31,3 +31,7 @@ nextOrder = orderQueue.shift();
 mixedNums.sort();
 
 mixedWords.sort();
+
+notFruit = fruitCollection.splice(1, 3);
+
+gemBox.splice(5, 7, "Sapphire");
