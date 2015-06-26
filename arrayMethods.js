@@ -53,3 +53,13 @@ myFruits = fruitCollection.join(' + ');
 favoriteFriends = friends.slice(1,3);
 
 owesMoney = friends.slice(3, 6);
+
+monthNameString = monthNames.toString();
+
+favoriteColor = colors.indexOf("Red");
+
+favoriteEvenNumber = mixedNums.indexOf(76);
+
+lastNine = bulkNumbers.lastIndexOf(9);
+
+lastFive = bulkNumbers.lastIndexOf(5);
