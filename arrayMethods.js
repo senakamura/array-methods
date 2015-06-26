@@ -49,3 +49,7 @@ updatedOrders = orderQueue.concat({takeOut: 'pizza'}, {takeOut: 'chineez'});
 sentence = scrambledWords.join(' ');
 
 myFruits = fruitCollection.join(' + ');
+
+favoriteFriends = friends.slice(1,3);
+
+owesMoney = friends.slice(3, 6);
