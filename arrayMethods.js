@@ -22,3 +22,6 @@ genericNumberArray.push(6,7,8,9,10);
 
 popResult = colors.pop(1);
 
+scrambledWords.reverse();
+
+phoneNumber.reverse();
