@@ -45,3 +45,7 @@ orderedValuesNewLength = orderedValues.unshift(1, 2, 3);
 randomThingsArray = genericNumberArray.concat(colors);
 
 updatedOrders = orderQueue.concat({takeOut: 'pizza'}, {takeOut: 'chineez'});
+
+sentence = scrambledWords.join(' ');
+
+myFruits = fruitCollection.join(' + ');
