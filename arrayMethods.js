@@ -27,3 +27,7 @@ scrambledWords.reverse();
 phoneNumber.reverse();
 
 nextOrder = orderQueue.shift();
+
+mixedNums.sort();
+
+mixedWords.sort();
